@@ -1,14 +1,13 @@
-### Indiamart Erpnext Integration by GreyCube.in
+### Indiamart Erpnext Integration 
 
-[Indiamart CRM API **Version 2**(Lead)](https://help.indiamart.com/knowledge-base/lms-crm-integration-v2/), integration with ERPNext by [GreyCube.in](https://greycube.in/) 🚀️
+[Indiamart CRM API **Version 2**(Lead)](https://help.indiamart.com/knowledge-base/lms-crm-integration-v2/), integration with ERPNext
 
-![](https://greycube.in/files/indiamart_greycube.png)
 
 **What does the app do?**
 
 * Indiamart.com : It is a market place where buyers come to fulfill their purchase requirements. i.e. they generate Leads
 * ERPNext : It is open source ERP
-* Indiamart Erpnext Integration (App): It automatically pulls purchase inquires from indiamart and creats lead in ERPNext. App is developed by [GreyCube.in](https://greycube.in/) (official and certified ERPNext service provider)
+* Indiamart Erpnext Integration (App): It automatically pulls purchase inquires from indiamart and creats lead in ERPNext. 
 
 ---
 
@@ -55,10 +54,10 @@
 **Support**
 
 * The steps are well documented above and app is tested with large amount of real indiamart data. So as such no help will be required.
-* Setup support : It would be maximum 1 hour. 500 INR / 10$. Email at <admin@greycube.in>
-* All other support: Email at <admin@greycube.in> with details to get quote
+* Setup support : It would be maximum 1 hour. 500 INR / 10$. Email at choudharyvivek195@gmail.com
+* All other support: Email at choudharyvivek195@gmail.com with details to get quote
 
-**[Contact us](https://greycube.in/contact) for customization**
+**[Contact us] tel:+919987842957 for customization**
 
 * Automatic mapping of Territory based on IndiaMart Lead Origin
 * Automatic mapping of Leads based on Territory Manager
