@@ -350,7 +350,7 @@ def update_existing_lead(lead_name,lead_values):
 			lead.reload()
 			lead.query_id_cf=lead_values.get('UNIQUE_QUERY_ID')
 			if lead.notes:
-				lead.notes_html="".join(lead.notes) + opportunity_html
+				lead.notes_html=lead.notes+opportunity_html
 			else:
 				lead.notes_html=opportunity_html
 			lead.contact_date=''
